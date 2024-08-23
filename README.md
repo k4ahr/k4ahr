@@ -6,7 +6,7 @@
 * Hwng/HwngDaoVuong/K4ahr
 * He/Him
 * VN/EN
-* Started college life since 2024
+* College life started since 2024
 
 ## ***Social***
 * Discord: ***k4ahr_***
