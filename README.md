@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="image.png"></img>
+<p align="right"><i>Art by @NKNK_NGRMS</i></p> 
 
-<!--
-**k4ahr/k4ahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ***From the XP era***
+* Hwng/HwngDaoVuong/K4ahr
+* He/Him
+* VN/EN
+* Started college life since 2024
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ***Social***
+* Discord: ***k4ahr_***
+* Facebook: *https://www.facebook.com/k4ahr*
