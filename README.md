@@ -1,5 +1,5 @@
 <img src="image.png"></img>
-<p align="right"><i>You're a wanderer just like me</i></p> 
+<h3><i>You're a wanderer just like me</i></h3>
 <p align="right"><i>Art by @NKNK_NGRMS</i></p> 
 
 
