@@ -11,8 +11,7 @@
 
 
 ## ***Wait I came from k4ahr.work***
-> So you found my website link, if you got redirected back to here, that means I haven't fixed my website's hosting yet.
-> ¯\_(ツ)_/¯
+* So you found my website link, if you got redirected back to here, that means I haven't fixed my website's hosting yet ¯\_(ツ)_/¯ .
 
 
 ## ***Social***
