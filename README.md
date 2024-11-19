@@ -1,6 +1,6 @@
-<img src="image.png"></img>
+<img src="image2.jpg"></img>
 <h3><i>The cake is a lie</i></h3>
-<p align="right"><i>Art by @NKNK_NGRMS</i></p> 
+<p align="right"><i>Art by Tsukumizu</i></p> 
 
 
 ## ***From the XP era***
