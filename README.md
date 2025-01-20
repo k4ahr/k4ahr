@@ -16,6 +16,5 @@
  	<a href="https://discord.com/users/745991584293584907">
 		<img alt="Youtube" src="https://dcbadge.vercel.app/api/shield/745991584293584907">
   </a>
-* Facebook: *https://www.facebook.com/k4ahr*
 * Email: k4ahr@proton.me
 
