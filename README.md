@@ -16,5 +16,5 @@
  	<a href="https://discord.com/users/745991584293584907">
 		<img alt="Youtube" src="https://dcbadge.limes.pink/api/shield/745991584293584907">
   </a>
-* Email: k4ahr@proton.me
+* Email: k4ahr@getgoogleoff.me
 
