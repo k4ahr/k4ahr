@@ -3,7 +3,7 @@
 <p align="right"><i>Art by Tsukumizu</i></p> 
 
 
-## ***From the XP era***
+## ***Quick summary***
 * Hwng/HwngDaoVuong/K4ahr
 * He/Him
 * VN/EN
