@@ -18,4 +18,3 @@
   </a>
 * Email: k4ahr@getgoogleoff.me
 
-![GitHub Stats](https://ghstats.dev/api/card?username=k4ahr&theme=rosepine)
